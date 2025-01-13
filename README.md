@@ -1,5 +1,7 @@
 # kzfp_annotation
-Automatically annotates KRAB-zinc finger protein genes in any input genome.
+Automatically annotates KRAB zinc-finger protein genes in any input genome. A flexible use allows for the automatic annotation of any zinc-finger protein gene, such as SCAN zinc-finger protein genes.
+
+Performs tailored aligments of protein domains of KZFPs, in particular for the so-called "zinc fingerprints". 
 
 This code was last updated in 2018, and should thus be strictly run with the dependencies below. The best would be to resort to a container to "downgrade" the libraries.
 
