@@ -11,6 +11,11 @@ Iouranova et al., KRAB zinc finger protein ZNF676 controls the transcriptional i
 
 Matsushima et al., in prep.
 
+## References
+
+Inspired from Imbeault et al., KRAB zinc-finger proteins contribute to the evolution of gene regulatory networks, Nature 2017.
+Read Pulver, KRAB domain-containing zinc-finger proteins in ancient humans, 2017 (unpublished report, in this github directory) for further references.
+
 ## Instructions
 
 For the theoretical background, refer to sections 4.1 and 4.1 of KZFPs in ancient humans.pdf in the root folder
